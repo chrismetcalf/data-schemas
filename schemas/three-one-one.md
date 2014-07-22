@@ -4,8 +4,6 @@ title: 311 App Schema
 type: schema
 ---
 
-_Updated July 2014_
-
 ## Data Attributes
 
 A dataset containing these attributes powers the 311 App.  While several fields are optional, they greatly improve the user experience for both citizen users and administrators.  
